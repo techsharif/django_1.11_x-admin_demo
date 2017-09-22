@@ -1,0 +1,4 @@
+crispy_forms
+reversion
+django-mptt
+django-contrib-comments
